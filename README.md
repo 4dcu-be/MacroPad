@@ -1,8 +1,15 @@
 # MacroPad
-All code and files for setting up a Raspberry Pi Pico powered macropad.
+All code and files for setting up a Raspberry Pi Pico powered MacroPad.
 
 
 ![Image of the completed MacroPad](./docs/macropad_finished.jpg)
+
+For more instructions/information check out the blog posts about this keyboard:
+
+  * [A Python powered MacroPad/StreamDeck](http://blog.4dcu.be/diy/2021/04/05/Macropad.html)
+  * [Tiny MIDI controller with Raspberry Pi Pico](https://blog.4dcu.be/diy/2021/05/20/MIDIpad.html)
+  * [Better Raspberry Pi Pico MIDI controller](https://blog.4dcu.be/diy/2021/12/16/MIDIpad_update.html)
+  * [Better code for the MacroPad](https://blog.4dcu.be/diy/2022/05/23/Macropad_update.html
 
 
 ## Building the MacroPad
@@ -30,7 +37,7 @@ You'll have to wire everything as shown in the schematic below:
 
 ## Preparing the Raspberry Pi Pico
 
-You'll need to install CircuitPython and the [ADAFruit HID](https://github.com/adafruit/Adafruit_CircuitPython_HID) library. 
+You'll need to install [CircuitPython](https://circuitpython.org/) and the [ADAFruit HID](https://github.com/adafruit/Adafruit_CircuitPython_HID) library. 
 
 ## Installing the code
 
