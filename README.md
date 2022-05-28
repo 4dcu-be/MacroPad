@@ -2,6 +2,7 @@
 All code and files for setting up a Raspberry Pi Pico powered macropad.
 
 
+![Image of the completed MacroPad](./docs/macropad_finished.jpg)
 
 
 ## Building the MacroPad
@@ -23,6 +24,10 @@ Here is an overview of all items you'll need to build a MacroPad just like the o
 *  a hot-glue gun
 *  a USB-micro cable
 
+You'll have to wire everything as shown in the schematic below:
+
+![Image of how to connect buttons, LEDs to the Pi Pico](./docs/wiring_scheme.png)
+
 ## Preparing the Raspberry Pi Pico
 
 You'll need to install CircuitPython and the [ADAFruit HID](https://github.com/adafruit/Adafruit_CircuitPython_HID) library. 
@@ -31,3 +36,4 @@ You'll need to install CircuitPython and the [ADAFruit HID](https://github.com/a
 
 Simply copy the code from the ```./code``` folder to the root folder of the Pi Pico. In case you wish to change the button map, have a look at ```code.py```.
 
+![Image of the completed MacroPad](./docs/macropad_finished2.jpg)
