@@ -35,6 +35,8 @@ You'll have to wire everything as shown in the schematic below:
 
 ![Image of how to connect buttons, LEDs to the Pi Pico](./docs/wiring_scheme.png)
 
+Getting the cables the right lenght to fit in the case while still being long enough to hot-glue the pico in place at the end can be tricky. Test fit frequently !
+
 ## Preparing the Raspberry Pi Pico
 
 You'll need to install [CircuitPython](https://circuitpython.org/) and the [ADAFruit HID](https://github.com/adafruit/Adafruit_CircuitPython_HID) library. 
