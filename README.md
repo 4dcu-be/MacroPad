@@ -9,7 +9,7 @@ For more instructions/information check out the blog posts about this keyboard:
   * [A Python powered MacroPad/StreamDeck](http://blog.4dcu.be/diy/2021/04/05/Macropad.html)
   * [Tiny MIDI controller with Raspberry Pi Pico](https://blog.4dcu.be/diy/2021/05/20/MIDIpad.html)
   * [Better Raspberry Pi Pico MIDI controller](https://blog.4dcu.be/diy/2021/12/16/MIDIpad_update.html)
-  * [Better code for the MacroPad](https://blog.4dcu.be/diy/2022/05/23/Macropad_update.html
+  * [Better code for the MacroPad](https://blog.4dcu.be/diy/2022/05/23/Macropad_update.html)
 
 
 ## Building the MacroPad
