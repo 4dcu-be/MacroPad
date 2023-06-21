@@ -23,7 +23,7 @@ Here is an overview of all items you'll need to build a MacroPad just like the o
 *  9x 1.8 mm 2V LEDs (current 15-20 mA) (optional)
 *  9x 82 Ohm resistors (optional)
 *  1x a switch opener (optional)
-*  4x M3 bolts (1 cm long)
+*  4x M3 bolts (14-16mm long)
 *  some heat-shrink tubing
 *  wire, single core and flexible
 *  soldering equipment
